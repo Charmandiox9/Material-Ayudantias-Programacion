@@ -12,13 +12,13 @@ Explicaciones teóricas y prácticas de cada tema del curso.
 
 | # | Tema |
 |---|------|
-| 01 | [Elementos Básicos](guia/01-elementos-basicos.md) |
-| 02 | [Lectura de Archivos](guia/02-lectura-archivos.md) |
-| 03 | [Subprogramas](guia/03-subprogramas.md) |
-| 04 | [Listas](guia/04-listas.md) |
-| 05 | [Matrices con NumPy](guia/05-matrices-numpy.md) |
-| 06 | [Algoritmos sobre Listas](guia/06-algoritmos-listas.md) |
-| 07 | [Algoritmos sobre Matrices](guia/07-algoritmos-matrices.md) |
+| 01 | [Elementos Básicos](docs/01-elementos-basicos.md) |
+| 02 | [Lectura de Archivos](docs/02-lectura-archivos.md) |
+| 03 | [Subprogramas](docs/03-subprogramas.md) |
+| 04 | [Listas](docs/04-listas.md) |
+| 05 | [Matrices con NumPy](docs/05-matrices-numpy.md) |
+| 06 | [Algoritmos sobre Listas](docs/06-algoritmos-listas.md) |
+| 07 | [Algoritmos sobre Matrices](docs/07-algoritmos-matrices.md) |
 
 ---
 
