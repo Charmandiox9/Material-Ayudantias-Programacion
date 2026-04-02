@@ -29,6 +29,7 @@ Explicaciones teóricas y prácticas de cada tema del curso.
 | Sesión | Enunciado | Solución |
 |---|---|---|
 | Ayudantía 1 | [Readme](2026-01/Prueba%201/Ayudantía%201/README.md) | [Archivos](2026-01/Prueba%201/Ayudantía%201/Solve) |
+| Ayudantía 2 | [Readme](2026-01/Prueba%201/Ayudantía%202/Readme.md) | [Archivos](2026-01/Prueba%201/Ayudantía%202/Solve) |
 
 ---
 
