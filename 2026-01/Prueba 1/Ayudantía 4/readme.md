@@ -1,4 +1,4 @@
-# 🎵 Ayudantía 4 — Programación Python
+# Ayudantía 4 — Programación Python
 **I Semestre 2026 · ITI – ICCI – ICI**
 
 > Temas evaluados: lectura de archivos con `open()` + `readline()` + `.split()`, ciclos `while`, acumuladores, máximos/mínimos y procesamiento de datos estructurados.
@@ -238,18 +238,3 @@ arch.close()
 | `int()` / `float()` | Convierte el string leído a número para operar |
 | `len(partes)` | Cuenta cuántos elementos hay en la línea (útil cuando N es variable) |
 | Acumulador | Variable que suma, cuenta o guarda máximos/mínimos línea a línea |
-
----
-
-## 🗂️ Estructura del repositorio
-
-```
-Ayudantia_4/
-├── README.md
-├── ejercicios_previos/
-│   ├── numeros.py
-│   ├── paises.py
-│   └── temperaturas_regiones.py
-├── spotify_wrapped.py
-└── f1.py
-```
