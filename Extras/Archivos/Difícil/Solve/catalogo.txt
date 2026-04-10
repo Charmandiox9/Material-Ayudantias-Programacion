@@ -1,0 +1,5 @@
+Daft Punk;Get Lucky;248;95
+Queen;Bohemian Rhapsody;354;99
+Daft Punk;One More Time;320;92
+Queen;Don't Stop Me Now;210;96
+Imagine Dragons;Believer;204;88

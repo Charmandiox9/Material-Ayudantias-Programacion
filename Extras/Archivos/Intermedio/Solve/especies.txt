@@ -1,0 +1,5 @@
+Jaguar,1200
+Delfin Rosado,450
+Guacamayo Azul,300
+Oso Hormiguero,800
+Tapiro,150

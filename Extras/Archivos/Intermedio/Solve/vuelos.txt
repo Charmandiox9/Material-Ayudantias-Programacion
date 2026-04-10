@@ -1,0 +1,4 @@
+Dron-A,10,15
+Dron-B,15,20
+Dron-C,8,10
+Dron-D,20,30
