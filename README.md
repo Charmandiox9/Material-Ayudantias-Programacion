@@ -30,7 +30,15 @@ Explicaciones teóricas y prácticas de cada tema del curso.
 |---|---|---|
 | Ayudantía 1 | [Readme](2026-01/Prueba%201/Ayudantía%201/README.md) | [Archivos](2026-01/Prueba%201/Ayudantía%201/Solve) |
 | Ayudantía 2 | [Readme](2026-01/Prueba%201/Ayudantía%202/Readme.md) | [Archivos](2026-01/Prueba%201/Ayudantía%202/Solve) |
-| Ayudantía 4 | [Readme](2026-01/Prueba%201/Ayudantía%204/readme.md) |  |
+| Ayudantía 3 | [Readme](2026-01/Prueba%201/Ayudantía%203/readme.md) | [Archivos](2026-01/Prueba%201/Ayudantía%203/Solve) |
+| Ayudantía 4 | [Readme](2026-01/Prueba%201/Ayudantía%204/readme.md) | [Archivos](2026-01/Prueba%201/Ayudantía%204/Solve) |
+| Ayudantía 5 | [Readme](2026-01/Prueba%201/Ayudantía%205/readme.md) | [Archivos](2026-01/Prueba%201/Ayudantía%205/Solve) |
+
+### Prueba 2
+
+| Sesión | Enunciado | Solución |
+|---|---|---|
+| Ayudantía 6 | [Readme](2026-01/Prueba%202/Ayudantía%206/readme.md) | [Archivos](2026-01/Prueba%202/Ayudantía%206/Solve) |
 
 ---
 
